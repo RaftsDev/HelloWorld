@@ -60,8 +60,6 @@ user enters the password correctly, print “ACCESS APPROVED”.
                     System.out.println("You want finish work with ATM");
                     break;
             }
-
-
         }
     }
 
