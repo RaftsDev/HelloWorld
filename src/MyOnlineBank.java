@@ -37,7 +37,6 @@ user enters the password correctly, print “ACCESS APPROVED”.
             System.out.println("Press 4 to finish work with ATM");
             input = scanner.nextInt();
 
-
             switch (input) {
                 case 1:
                     System.out.println("You want put a deposit on your account");
